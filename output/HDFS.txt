@@ -1,0 +1,5 @@
+20240716-100556 f5dc78cf lstm use_attention:False	dataset:HDFS	feature_type:sequentials	label_type:next_log f1-0.6897	rc-0.5263	pc-1.0000	top6-acc-0.9713	converge-1.0000 train: 3.733 test: 0.432
+20240716-101901 f5dc78cf lstm use_attention:False	dataset:HDFS	feature_type:sequentials	label_type:next_log f1-0.6818	rc-0.5263	pc-0.9677	top4-acc-0.9713	converge-4.0000 train: 3.277 test: 0.353
+20240716-160427 7da07735 lstm use_attention:False	dataset:HDFS	feature_type:sequentials	label_type:next_log f1-0.0000	rc-0.0000	pc-0.0000	top10-acc-1.0000	converge-1.0000 train: 0.130 test: 0.027
+20240717-104106 7da07735 lstm use_attention:False	dataset:HDFS	feature_type:sequentials	label_type:next_log f1-0.0000	rc-0.0000	pc-0.0000	top10-acc-1.0000	converge-1.0000 train: 0.111 test: 0.020
+20240717-104426 54a0b333 lstm use_attention:False	dataset:HDFS	feature_type:sequentials	label_type:next_log f1-0.1875	rc-0.1053	pc-0.8571	top5-acc-0.9713	converge-1.0000 train: 3.194 test: 0.341
