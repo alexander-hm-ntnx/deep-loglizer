@@ -1,0 +1,8 @@
+{
+    "data_dir": "data/processed/Zookeeper_2k/",
+    "data_name": "test_0.1",
+    "log_file": "../loghub/Zookeeper/Zookeeper_2k.log_structured.csv",
+    "random_sessions": true,
+    "test_ratio": 0.1,
+    "train_anomaly_ratio": 1.0
+}

@@ -1,0 +1,223 @@
+{np.int64(-62781): defaultdict(<class 'list'>,
+                               {'templates': ['Closed socket connection for '
+                                              'client /<*>:<*> which had '
+                                              'sessionid <*>']}),
+ np.int64(-62635): defaultdict(<class 'list'>,
+                               {'templates': ['Connection request from old '
+                                              'client /<*>:<*>; will be '
+                                              'dropped if server is in r-o '
+                                              'mode']}),
+ np.int64(-51209): defaultdict(<class 'list'>,
+                               {'templates': ['Cannot open channel to <*> at '
+                                              'election address /<*>:<*>']}),
+ np.int64(-48449): defaultdict(<class 'list'>,
+                               {'templates': ['Notification time out: <*>']}),
+ np.int64(-42209): defaultdict(<class 'list'>,
+                               {'templates': ['Cannot open channel to <*> at '
+                                              'election address /<*>:<*>',
+                                              'Notification time out: <*>']}),
+ np.int64(-23987): defaultdict(<class 'list'>,
+                               {'templates': ['Connection request from old '
+                                              'client /<*>:<*>; will be '
+                                              'dropped if server is in r-o '
+                                              'mode']}),
+ np.int64(-8081): defaultdict(<class 'list'>,
+                              {'templates': ['Cannot open channel to <*> at '
+                                             'election address /<*>:<*>']}),
+ np.int64(-7829): defaultdict(<class 'list'>,
+                              {'templates': ['autopurge.purgeInterval set to '
+                                             '<*>']}),
+ np.int64(-7584): defaultdict(<class 'list'>,
+                              {'templates': ['Accepted socket connection from '
+                                             '/<*>:<*>']}),
+ np.int64(-6390): defaultdict(<class 'list'>,
+                              {'templates': ['Accepted socket connection from '
+                                             '/<*>:<*>']}),
+ np.int64(-1060): defaultdict(<class 'list'>,
+                              {'templates': ['Expiring session <*>, timeout of '
+                                             '<*>ms exceeded']}),
+ np.int64(-150): defaultdict(<class 'list'>,
+                             {'templates': ['Cannot open channel to <*> at '
+                                            'election address /<*>:<*>']}),
+ np.int64(437): defaultdict(<class 'list'>,
+                            {'templates': ['Established session <*> with '
+                                           'negotiated timeout <*> for client '
+                                           '/<*>:<*>']}),
+ np.int64(662): defaultdict(<class 'list'>,
+                            {'templates': ['Connection request from old client '
+                                           '/<*>:<*>; will be dropped if '
+                                           'server is in r-o mode']}),
+ np.int64(4820): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue']}),
+ np.int64(5560): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupting SendWorker']}),
+ np.int64(5592): defaultdict(<class 'list'>,
+                             {'templates': ['******* GOODBYE /<*>:<*> '
+                                            '********']}),
+ np.int64(5650): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue']}),
+ np.int64(5652): defaultdict(<class 'list'>,
+                             {'templates': ['******* GOODBYE /<*>:<*> '
+                                            '********']}),
+ np.int64(5653): defaultdict(<class 'list'>,
+                             {'templates': ['Received connection request '
+                                            '/<*>:<*>']}),
+ np.int64(5783): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupting SendWorker',
+                                            'Interrupting SendWorker']}),
+ np.int64(5892): defaultdict(<class 'list'>,
+                             {'templates': ['Established session <*> with '
+                                            'negotiated timeout <*> for client '
+                                            '/<*>:<*>']}),
+ np.int64(6141): defaultdict(<class 'list'>,
+                             {'templates': ['Received connection request '
+                                            '/<*>:<*>',
+                                            'Connection broken for id <*>, my '
+                                            'id = <*>, error =',
+                                            'Interrupting SendWorker']}),
+ np.int64(6148): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue',
+                                            'Connection broken for id <*>, my '
+                                            'id = <*>, error =',
+                                            'Send worker leaving thread',
+                                            'Interrupted while waiting for '
+                                            'message on queue']}),
+ np.int64(6152): defaultdict(<class 'list'>,
+                             {'templates': ['Send worker leaving thread',
+                                            'Send worker leaving thread',
+                                            'Interrupting SendWorker',
+                                            'Send worker leaving thread']}),
+ np.int64(6155): defaultdict(<class 'list'>,
+                             {'templates': ['Send worker leaving thread']}),
+ np.int64(6172): defaultdict(<class 'list'>,
+                             {'templates': ['Connection broken for id <*>, my '
+                                            'id = <*>, error =',
+                                            'Received connection request '
+                                            '/<*>:<*>',
+                                            'Send worker leaving thread',
+                                            'Connection broken for id <*>, my '
+                                            'id = <*>, error =']}),
+ np.int64(6287): defaultdict(<class 'list'>,
+                             {'templates': ['Send worker leaving thread']}),
+ np.int64(6291): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue',
+                                            'Interrupting SendWorker']}),
+ np.int64(6300): defaultdict(<class 'list'>,
+                             {'templates': ['Send worker leaving thread',
+                                            'Send worker leaving thread',
+                                            'Received connection request '
+                                            '/<*>:<*>']}),
+ np.int64(6390): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue']}),
+ np.int64(6404): defaultdict(<class 'list'>,
+                             {'templates': ['Received connection request '
+                                            '/<*>:<*>',
+                                            'Connection broken for id <*>, my '
+                                            'id = <*>, error =']}),
+ np.int64(6434): defaultdict(<class 'list'>,
+                             {'templates': ['Received connection request '
+                                            '/<*>:<*>']}),
+ np.int64(6490): defaultdict(<class 'list'>,
+                             {'templates': ['Send worker leaving thread',
+                                            'Interrupting SendWorker',
+                                            'Interrupting SendWorker']}),
+ np.int64(6544): defaultdict(<class 'list'>,
+                             {'templates': ['Send worker leaving thread',
+                                            'Connection broken for id <*>, my '
+                                            'id = <*>, error =',
+                                            'Send worker leaving thread',
+                                            'Interrupted while waiting for '
+                                            'message on queue',
+                                            'Received connection request '
+                                            '/<*>:<*>',
+                                            'Received connection request '
+                                            '/<*>:<*>',
+                                            'Interrupted while waiting for '
+                                            'message on queue']}),
+ np.int64(6571): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupting SendWorker',
+                                            'Connection broken for id <*>, my '
+                                            'id = <*>, error =']}),
+ np.int64(6650): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue']}),
+ np.int64(6658): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue',
+                                            'Interrupting SendWorker',
+                                            'Interrupting SendWorker',
+                                            'Send worker leaving thread']}),
+ np.int64(6697): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue',
+                                            'Interrupted while waiting for '
+                                            'message on queue',
+                                            'Interrupting SendWorker',
+                                            'Send worker leaving thread',
+                                            'Interrupted while waiting for '
+                                            'message on queue',
+                                            'Interrupted while waiting for '
+                                            'message on queue']}),
+ np.int64(6711): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue',
+                                            'Connection broken for id <*>, my '
+                                            'id = <*>, error =',
+                                            'Connection broken for id <*>, my '
+                                            'id = <*>, error =']}),
+ np.int64(6713): defaultdict(<class 'list'>,
+                             {'templates': ['Connection broken for id <*>, my '
+                                            'id = <*>, error =',
+                                            'Interrupted while waiting for '
+                                            'message on queue']}),
+ np.int64(6781): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupting SendWorker']}),
+ np.int64(6800): defaultdict(<class 'list'>,
+                             {'templates': ['Send worker leaving thread']}),
+ np.int64(6811): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupting SendWorker']}),
+ np.int64(6845): defaultdict(<class 'list'>,
+                             {'templates': ['Interrupted while waiting for '
+                                            'message on queue',
+                                            'Send worker leaving thread',
+                                            'Received connection request '
+                                            '/<*>:<*>']}),
+ np.int64(6874): defaultdict(<class 'list'>,
+                             {'templates': ['Received connection request '
+                                            '/<*>:<*>',
+                                            'Received connection request '
+                                            '/<*>:<*>',
+                                            'Interrupted while waiting for '
+                                            'message on queue',
+                                            'Received connection request '
+                                            '/<*>:<*>']}),
+ np.int64(6888): defaultdict(<class 'list'>,
+                             {'templates': ['Send worker leaving thread',
+                                            'Interrupted while waiting for '
+                                            'message on queue']}),
+ np.int64(7728): defaultdict(<class 'list'>,
+                             {'templates': ['Processed session termination for '
+                                            'sessionid: <*>']}),
+ np.int64(7832): defaultdict(<class 'list'>,
+                             {'templates': ['Processed session termination for '
+                                            'sessionid: <*>',
+                                            'Processed session termination for '
+                                            'sessionid: <*>']}),
+ np.int64(9197): defaultdict(<class 'list'>,
+                             {'templates': ['Accepted socket connection from '
+                                            '/<*>:<*>']}),
+ np.int64(10694): defaultdict(<class 'list'>,
+                              {'templates': ['Processed session termination '
+                                             'for sessionid: <*>']}),
+ np.int64(14260): defaultdict(<class 'list'>,
+                              {'templates': ['Accepted socket connection from '
+                                             '/<*>:<*>']}),
+ np.int64(19249): defaultdict(<class 'list'>,
+                              {'templates': ['Client attempting to establish '
+                                             'new session at /<*>:<*>']}),
+ np.int64(21699): defaultdict(<class 'list'>, {'templates': ['LOOKING']})}
